@@ -1,1 +1,3 @@
-# js_analogue_clock
+# JavaScript Analogue Clock
+
+Built with this [tutorial](https://youtu.be/Ki0XXrlKlHY)
